@@ -54,3 +54,4 @@ Email Marketing, SMTP Relay, and APIs.
 
 ### Others
 - [Picocandy](http://picocandy.com/) - A unique sticker as a service platform for mobile platform
+- [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts 2 steps easier for developers.
